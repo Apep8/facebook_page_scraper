@@ -5,7 +5,7 @@ with open("README.md", "r") as file:
 
 requirements = ['selenium==4.9.0',
                 'webdriver-manager==3.2.2',
-                'selenium-wire==5.1.0',
+                'selenium-wire==5.2.0',
                 'python-dateutil==2.8.2']
 
 
